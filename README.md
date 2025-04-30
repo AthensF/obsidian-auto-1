@@ -1,2 +1,2 @@
 # obsidian-auto-1
-<!-- testing new file -->
+Writing into readme, first sentence.
